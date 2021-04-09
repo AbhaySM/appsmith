@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/github-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
+    <img src="images/git-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
     <img src="https://github.com/appsmithOrg/appsmith/blob/release/static/appsmith_logo_white.png" alt="Appsmith.com logo" width="400"/>
     <br>
     <i> Build and self-host all your internal apps.</i>
