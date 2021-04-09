@@ -1,6 +1,6 @@
 
-<img src="images/git-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
-    
+<img src="images/white-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
+
 <div>    
 Appsmith is a JavaScript-based visual development platform to build and launch internal tools quickly. Drag-and-drop pre-built widgets, and connect them using JavaScript to create interactive pages. Connect UI to your APIs and Databases to build complex workflows in minutes.<br/><br/>
 
