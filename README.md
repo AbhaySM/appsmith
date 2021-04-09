@@ -1,26 +1,6 @@
-<p align="center">
-    <img src="images/git-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
-    <img src="https://github.com/appsmithOrg/appsmith/blob/release/static/appsmith_logo_white.png" alt="Appsmith.com logo" width="400"/>
-    <br>
-    <i> Build and self-host all your internal apps.</i>
-  <br>
-</p>
 
-<p align="center">
-    <a href="https://app.appsmith.com/signup"><strong>Try Online Sandbox</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://docs.appsmith.com/">Documentation</a>
-  ·
-  <a href="https://discord.gg/rBTTVJp">Discord</a>
-  ·
-  <a href="./office_hours.md">Office Hours</a>  
-  <br>
-  <br>
-</p>
-
------------------
+<img src="images/git-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
+    
 <div>    
 Appsmith is a JavaScript-based visual development platform to build and launch internal tools quickly. Drag-and-drop pre-built widgets, and connect them using JavaScript to create interactive pages. Connect UI to your APIs and Databases to build complex workflows in minutes.<br/><br/>
 
