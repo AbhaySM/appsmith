@@ -9,8 +9,9 @@
   <a href="https://docs.appsmith.com/">Documentation</a>
   <br>
   <br>
-  <br>
   Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build UI, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+  <br>
+  <br>
 </p>
 
 
@@ -19,26 +20,40 @@
 
 The fastest way to start with Appsmith is to try the cloud-hosted version. When you're ready, you can also host it yourself.
 
-* Start building apps *2 minutes* with [Appsmith Cloud](https://bit.ly/appsmith-signup-github).
-* Deploy to your own server using one of these:
-  * [Docker](https://docs.appsmith.com/setup/docker) (Recommended)
-  * [Kubernetes](https://docs.appsmith.com/setup/kubernetes)
-  * [AWS AMI](https://docs.appsmith.com/setup/aws-ami)
-  * [Heroku](https://docs.appsmith.com/setup/heroku)
+* Start building apps *2 minutes* with [Appsmith Cloud](https://bit.ly/appsmith-signup-github)
+* Install locally or on a private instance with [Docker](https://docs.appsmith.com/setup/docker) (Recommended)
+* Deploy on a [Kubernetes](https://docs.appsmith.com/setup/kubernetes) cluster
+* Deploy to [AWS with an AMI](https://docs.appsmith.com/setup/aws-ami) on the marketplace
+* One-click deploy to [Heroku](https://docs.appsmith.com/setup/heroku)
 
 
 
 ## Features
-**UI Components**: Table, Chart, Form, Map, Image, Video, and many more.<br/>
-**API Support**: REST APIs, OAuth 2.0, CURL<br/>
-**Database Support**: PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server<br/>
-**Hosting**: Cloud-hosted & On-premise
 
-<img src="https://github.com/appsmithOrg/appsmith/blob/release/static/UI.gif">
-<p align="center">
-  <img src="https://github.com/appsmithOrg/appsmith/blob/release/static/Query2.png" width="270">
-  <img src="https://github.com/appsmithOrg/appsmith/blob/release/static/API2.png" width="270">
-  <img src="https://github.com/appsmithOrg/appsmith/blob/release/static/Share5.png" width="270">
+#### Drag & Drop UI
+Build app interfaces in record time using ready components, without a single line of code. The most common components are available—easily drag tables, charts, forms, maps, images, videos and more straight into your app.
+<p>
+  <img src="images/animations/drag-drop.gif" width="33%">
+  <img src="images/animations/selections.gif" width="33%">
+  <img src="images/animations/move-around.gif" width="33%">
+</p>
+
+#### Integrations
+Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with added support for OAuth 2.0 and CURL. We've pre-built integrations for PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server.
+<img src="images/integrations.png" width="50%">
+
+#### JavaScript Everywhere
+
+#### Access Control
+
+#### One-click Deployment
+
+#### Transparent Support for All
+
+<p>
+  <img src="images/animations/drag-drop.gif" width="33%">
+  <img src="images/animations/selections.gif" width="33%">
+  <img src="images/animations/move-around.gif" width="33%">
 </p>
 
 ## 🏭 Features
