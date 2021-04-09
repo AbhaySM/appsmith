@@ -3,26 +3,36 @@
 
 <p>
   <b><a href="https://app.appsmith.com/signup">Start Building</a></b>
-  ·
+    •
+  <a href="https://www.appsmith.com/">Features</a>
+    •
   <a href="https://docs.appsmith.com/">Documentation</a>
-  ·
-  <a href="https://discord.gg/rBTTVJp">Discord</a>
-  ·
-  <a href="./office_hours.md">Office Hours</a>  
   <br>
   <br>
+  <br>
+  Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build UI, write logic with JavaScript objects and connect to any API, database or GraphQL source.
 </p>
 
-<div>    
-Appsmith is a JavaScript-based visual development platform to build and launch internal tools quickly. Drag-and-drop pre-built widgets, and connect them using JavaScript to create interactive pages. Connect UI to your APIs and Databases to build complex workflows in minutes.<br/><br/>
 
+
+## Quick Start
+
+The fastest way to start with Appsmith is to try the cloud-hosted version. When you're ready, you can also host it yourself.
+
+* Start building apps *2 minutes* with [Appsmith Cloud](https://bit.ly/appsmith-signup-github).
+* Deploy to your own server using one of these:
+  * [Docker](https://docs.appsmith.com/setup/docker) (Recommended)
+  * [Kubernetes](https://docs.appsmith.com/setup/kubernetes)
+  * [AWS AMI](https://docs.appsmith.com/setup/aws-ami)
+  * [Heroku](https://docs.appsmith.com/setup/heroku)
+
+
+
+## Features
 **UI Components**: Table, Chart, Form, Map, Image, Video, and many more.<br/>
 **API Support**: REST APIs, OAuth 2.0, CURL<br/>
 **Database Support**: PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server<br/>
 **Hosting**: Cloud-hosted & On-premise
-
-Already familiar with Appsmith? [Quickly start building on your own](#%EF%B8%8F-quickstart).
-</div>
 
 <img src="https://github.com/appsmithOrg/appsmith/blob/release/static/UI.gif">
 <p align="center">
@@ -73,6 +83,7 @@ If you encountered a bug or need help troubleshooting an issue, you can use one 
 * Self Help: [Documentation](https://docs.appsmith.com)
 * Community Support: [Discord](https://discord.gg/rBTTVJp)
 * Issue & bug tracking: [GitHub Issues](https://github.com/appsmithorg/appsmith/issues/new/choose)
+<a href="./office_hours.md">Office Hours</a>
 
 ## 🧑‍🤝‍🧑 Contributing
 
