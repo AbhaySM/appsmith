@@ -31,6 +31,7 @@ The fastest way to start with Appsmith is to try the cloud-hosted version. When 
 * 📺 [See how to quickly build an app (4:18)](http://bit.ly/appsmith-demo-github)
 * 👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
 * 💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
+* 🌟 Made something cool? [Share it with the community](https://discord.gg/Tx395War)
 <br><br>
 
 ## Features
@@ -71,10 +72,10 @@ We love our contributors! We're committed to fostering an open and welcoming env
 * 🧩 [Set up your local environment](https://github.com/appsmithorg/appsmith/blob/master/contributions/CodeContributionsGuidelines.md#-setup-for-local-development)
 * 👾 Explore some [good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22)
 * 📕 Read our [Code of Conduct](CODE_OF_CONDUCT.md)
-<br><br>
+<br>
 
 
-## Contributors
+#### Current Contributors (36)
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove / modify this section -->
@@ -127,7 +128,7 @@ We love our contributors! We're committed to fostering an open and welcoming env
     <td align="center"><a href="http://www.navdeepsingh.in/"><img src="https://avatars.githubusercontent.com/u/2968787?v=4?s=100" width="100px;" alt=""/></a></td>
   </tr>
 </table>
-
+<br><br>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -135,4 +136,4 @@ We love our contributors! We're committed to fostering an open and welcoming env
 
 ## License
 
-Appsmith is available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (Apache-2.0).
+Appsmith is available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Use it wisely.
