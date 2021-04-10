@@ -29,24 +29,24 @@ The fastest way to start with Appsmith is to try the cloud-hosted version. When 
 
 
 ## Features
-#### Drag & Drop UI
-Use ready components to build dashboards and workflows in record time, without a single line of code. Most common elements are available—tables, charts, forms, maps, images, videos and more can be dropped right into your app.<br><br>
+### Drag & Drop UI
+Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.<br><br>
 
-#### Integrations
-Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with added support for OAuth 2.0 and CURL. We've pre-built integrations for PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server.
-<p><img src="images/integrations.png" width="50%"></p><br><br>
+### Quick Integrations
+Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).
+<br><p><img src="images/integrations.png" width="50%"></p><br>
 
-#### JavaScript Everywhere
-Every part of your app can be referenced as a JavaScript object. Code interactions between elements, update one datasource from another or manipulate SQL queries—we'll parse JS anywhere.<br><br>
+### Code logic with JavaScript
+All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
 
-#### One-click Deploy with Access Control
-Once you're done building your app, publishing it is as easy as pushing a button. Make the app public and get a shareable link, or privately invite your team to use it with OAuth 2.0 support. Each member can be assigned a role, you choose what they can access.<br><br>
+### One-click Deploy & Access Control
+[Push a button](https://docs.appsmith.com/core-concepts/access-control) to make your app public and get a shareable link, or privately invite your team using OAuth 2.0. Each member can be assigned a role with access to certain parts of the app.<br><br>
 
-#### 256-bits of Security
-Whenever you add a datasource to Appsmith Cloud, your credentials are secured end-to-end with an AES 256 encryption. Your data is your own, we don't store *any* of it. For even greater security, try one of our [self-hosted options](https://docs.appsmith.com/setup).<br><br>
+### Solid 256-bit Encryption
+Appsmith apps are [secure by default](https://docs.appsmith.com/security). All connections are encrypted using TLS, and credentials are further encrypted with AES-256. We can't see *(or store)* any of your data. For added security, try one of our [self-hosted options](https://docs.appsmith.com/setup).
 
-#### Transparent Support for All
-Issues are inevitable. Whenever you have one, our entire team is available on [Discord](https://discord.gg/rBTTVJp) to help. You may also choose to open an issue right here on [GitHub](https://github.com/appsmithorg/appsmith/issues/new/choose), or find a solution in our [Documentation](https://docs.appsmith.com)<br><br>
+### Transparent Support for All
+Issues are inevitable. When you have one, our entire team is available on [Discord](https://discord.gg/rBTTVJp) to help. You may also choose to open an issue right here on [GitHub](https://github.com/appsmithorg/appsmith/issues/new/choose), or find a solution in our [Documentation](https://docs.appsmith.com).<br><br>
 
 
 
