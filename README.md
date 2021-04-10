@@ -31,7 +31,7 @@ The fastest way to start with Appsmith is to try the cloud-hosted version. When 
 * 📺 [See how to quickly build an app (4:18)](http://bit.ly/appsmith-demo-github)
 * 👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
 * 💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
-
+<br><br>
 
 ## Features
 
@@ -42,36 +42,36 @@ The fastest way to start with Appsmith is to try the cloud-hosted version. When 
 </p>
 
 #### Drag & Drop UI
-Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.
+Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.<br><br>
 
 #### Quick Integrations
-Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).
+Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).<br><br>
 
 #### Code logic with JavaScript
-All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).
+All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
 
 #### One-click Deploy & Access Control
-[Push a button](https://docs.appsmith.com/core-concepts/access-control) to make your app public and get a shareable link, or privately invite your team using OAuth 2.0. Each member can be assigned a role with access to certain parts of the app.
+[Push a button](https://docs.appsmith.com/core-concepts/access-control) to make your app public and get a shareable link, or privately invite your team using OAuth 2.0. Each member can be assigned a role with access to certain parts of the app.<br><br>
 
 #### Solid 256-bit Encryption
-Appsmith apps are [secure by default](https://docs.appsmith.com/security). All connections are TLS-encrypted, and credentials are encrypted with AES-256—so we can't see any of your data. For added security, try our [self-hosted options](https://docs.appsmith.com/setup).
+Appsmith apps are [secure by default](https://docs.appsmith.com/security). All connections are TLS-encrypted, and credentials are encrypted with AES-256—so we can't see any of your data. For added security, try our [self-hosted options](https://docs.appsmith.com/setup).<br><br>
 
 #### Transparent Support
 Issues are inevitable. When you have one, our entire team is around to help—
 * 💬 Talk to us on [Discord](https://discord.gg/rBTTVJp)
 * 📄 Find a solution in our [Documentation](https://docs.appsmith.com)
 * ⚠️ Open an issue right here on [GitHub](https://github.com/appsmithorg/appsmith/issues/new/choose)
-
+<br><br>
 
 
 ## Contribute
 
 We love our contributors! We're committed to fostering an open and welcoming environment in the community. If you'd like to contribute anything from a bug-fix to a feature update, start here—
-* 📖 [Read our Contribution Guide](https://github.com/appsmithorg/appsmith/blob/master/CONTRIBUTING.md)
+* 📖 Read our [Contribution Guide](https://github.com/appsmithorg/appsmith/blob/master/CONTRIBUTING.md)
 * 🧩 [Set up your local environment](https://github.com/appsmithorg/appsmith/blob/master/contributions/CodeContributionsGuidelines.md#-setup-for-local-development)
-* 👾 [Explore some good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22)
-* 📕 [Read our Code of Conduct](CODE_OF_CONDUCT.md)
-
+* 👾 Explore some [good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22)
+* 📕 Read our [Code of Conduct](CODE_OF_CONDUCT.md)
+<br><br>
 
 
 ## Contributors
@@ -80,6 +80,11 @@ We love our contributors! We're committed to fostering an open and welcoming env
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove / modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+<a style="display: inline-block; width:12.5%; padding: 0 0 100%; background: url('https://avatars2.githubusercontent.com/u/458946?v=4?s=100') 50% 50% no-repeat cover; border-radius: 1000px" href="http://arpitmohan.com"></a>
+<a style="display: inline-block; width:12.5%; padding: 0 0 100%; background: url('https://avatars2.githubusercontent.com/u/458946?v=4?s=100') 50% 50% no-repeat cover; border-radius: 1000px" href="http://arpitmohan.com"></a>
+<a style="display: inline-block; width:12.5%; padding: 0 0 100%; background: url('https://avatars2.githubusercontent.com/u/458946?v=4?s=100') 50% 50% no-repeat cover; border-radius: 1000px" href="http://arpitmohan.com"></a>
+
 <table>
   <tr>
     <td align="center"><a href="http://arpitmohan.com"><img src="https://avatars2.githubusercontent.com/u/458946?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arpit Mohan</b></sub></a><br /><a href="https://github.com/appsmithorg/appsmith/commits?author=mohanarpit" title="Code">💻</a></td>
