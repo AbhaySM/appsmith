@@ -13,7 +13,6 @@
   <br>
   <br><p><img src="images/integrations.png" width="50%"></p>
   <br>
-  <br>
 </p>
 
 
@@ -29,9 +28,9 @@ The fastest way to start with Appsmith is to try the cloud-hosted version. When 
 * One-click deploy to [Heroku](https://docs.appsmith.com/setup/heroku)
 
 ### Demos
-📺 [See how to quickly build an app (4:18)](http://bit.ly/appsmith-demo-github)
-👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
-💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
+* 📺 [See how to quickly build an app (4:18)](http://bit.ly/appsmith-demo-github)
+* 👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
+* 💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
 
 
 ## Features
@@ -58,17 +57,20 @@ All parts of your app can be referenced as JavaScript objects. Code interactions
 Appsmith apps are [secure by default](https://docs.appsmith.com/security). All connections are TLS-encrypted, and credentials are encrypted with AES-256—so we can't see any of your data. For added security, try our [self-hosted options](https://docs.appsmith.com/setup).
 
 #### Transparent Support
-Issues are inevitable. When you have one, our entire team is available on [Discord](https://discord.gg/rBTTVJp) to help. You may also choose to open an issue right here on [GitHub](https://github.com/appsmithorg/appsmith/issues/new/choose), or find a solution in our [Documentation](https://docs.appsmith.com).
+Issues are inevitable. When you have one, our entire team is around to help—
+* 💬 Talk to us on [Discord](https://discord.gg/rBTTVJp)
+* 📄 Find a solution in our [Documentation](https://docs.appsmith.com)
+* ⚠️ Open an issue right here on [GitHub](https://github.com/appsmithorg/appsmith/issues/new/choose)
 
 
 
 ## Contribute
 
-We love our contributors! We are committed to fostering an open and welcoming environment in the community. If you'd like to contribute anything from a bug-fix to a feature update, start here—
-📖 [Read our Contribution Guide](https://github.com/appsmithorg/appsmith/blob/master/CONTRIBUTING.md)
-🧩 [Set up your local environment](https://github.com/appsmithorg/appsmith/blob/master/contributions/CodeContributionsGuidelines.md#-setup-for-local-development)
-👾 [Explore some good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22)
-📕 [Read our Code of Conduct](CODE_OF_CONDUCT.md)
+We love our contributors! We're committed to fostering an open and welcoming environment in the community. If you'd like to contribute anything from a bug-fix to a feature update, start here—
+* 📖 [Read our Contribution Guide](https://github.com/appsmithorg/appsmith/blob/master/CONTRIBUTING.md)
+* 🧩 [Set up your local environment](https://github.com/appsmithorg/appsmith/blob/master/contributions/CodeContributionsGuidelines.md#-setup-for-local-development)
+* 👾 [Explore some good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22)
+* 📕 [Read our Code of Conduct](CODE_OF_CONDUCT.md)
 
 
 
