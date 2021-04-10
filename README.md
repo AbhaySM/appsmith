@@ -22,13 +22,13 @@
 The fastest way to start with Appsmith is to try the cloud-hosted version. When you're ready, you can also host it yourself.
 
 * Start building apps *2 minutes* with [Appsmith Cloud](https://bit.ly/appsmith-signup-github)
-* Install locally or on a private instance with [Docker](https://docs.appsmith.com/setup/docker) (Recommended)
+* Install locally or on a private instance with [Docker](https://docs.appsmith.com/setup/docker) *(Recommended)*
 * Deploy on a [Kubernetes](https://docs.appsmith.com/setup/kubernetes) cluster
 * Deploy to [AWS with an AMI](https://docs.appsmith.com/setup/aws-ami) on the marketplace
 * One-click deploy to [Heroku](https://docs.appsmith.com/setup/heroku)
 
 ### Demos
-* 📺 [See how to quickly build an app (4:18)](http://bit.ly/appsmith-demo-github)
+* ▶️ [See how to quickly build an app](http://bit.ly/appsmith-demo-github) (4:18)
 * 👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
 * 💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
 * 🌟 Made something cool? [Share it with the community](https://discord.gg/Tx395War)
@@ -42,22 +42,22 @@ The fastest way to start with Appsmith is to try the cloud-hosted version. When 
   <img src="images/animations/move-around.gif" width="33%">
 </p>
 
-#### Drag & Drop UI
+#### ↗️ Drag & Drop UI
 Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.<br><br>
 
-#### Quick Integrations
+#### ⏱ Quick Integrations
 Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).<br><br>
 
-#### Code logic with JavaScript
+#### 🤖 Code logic with JavaScript
 All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
 
-#### One-click Deploy & Access Control
+#### ☝️ One-click Deploy & Access Control
 [Push a button](https://docs.appsmith.com/core-concepts/access-control) to make your app public and get a shareable link, or privately invite your team using OAuth 2.0. Each member can be assigned a role with access to certain parts of the app.<br><br>
 
-#### Solid 256-bit Encryption
+#### 🔑 Solid 256-bit Encryption
 Appsmith apps are [secure by default](https://docs.appsmith.com/security). All connections are TLS-encrypted, and credentials are encrypted with AES-256—so we can't see any of your data. For added security, try our [self-hosted options](https://docs.appsmith.com/setup).<br><br>
 
-#### Transparent Support
+#### 🎙 Transparent Support
 Issues are inevitable. When you have one, our entire team is around to help—
 * 💬 Talk to us on [Discord](https://discord.gg/rBTTVJp)
 * 📄 Find a solution in our [Documentation](https://docs.appsmith.com)
@@ -72,7 +72,6 @@ We love our contributors! We're committed to fostering an open and welcoming env
 * 🧩 [Set up your local environment](https://github.com/appsmithorg/appsmith/blob/master/contributions/CodeContributionsGuidelines.md#-setup-for-local-development)
 * 👾 Explore some [good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22)
 * 📕 Read our [Code of Conduct](CODE_OF_CONDUCT.md)
-<br>
 
 
 #### Currently Contributing (36)
