@@ -75,8 +75,7 @@ We love our contributors! We're committed to fostering an open and welcoming env
 <br>
 
 
-#### Current Contributors (36)
-
+#### Currently Contributing (36)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove / modify this section -->
 <!-- prettier-ignore-start -->
@@ -128,7 +127,7 @@ We love our contributors! We're committed to fostering an open and welcoming env
     <td align="center"><a href="http://www.navdeepsingh.in/"><img src="https://avatars.githubusercontent.com/u/2968787?v=4?s=100" width="100px;" alt=""/></a></td>
   </tr>
 </table>
-<br><br>
+<br>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
