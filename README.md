@@ -9,7 +9,7 @@
   <a href="https://docs.appsmith.com/">Documentation</a>
   <br>
   <br>
-  Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build UI, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+  Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
   <br>
   <br><p><img src="images/integrations.png" width="50%"></p>
   <br>
@@ -19,7 +19,7 @@
 
 ## Quick Start
 
-The fastest way to start with Appsmith is to try the cloud-hosted version. When you're ready, you can also host it yourself.
+The fastest way to start with Appsmith is the cloud-hosted version. When you're ready, you can also host it yourself.
 
 * Start building apps *2 minutes* with [Appsmith Cloud](https://bit.ly/appsmith-signup-github)
 * Install locally or on a private instance with [Docker](https://docs.appsmith.com/setup/docker) *(Recommended)*
@@ -48,7 +48,7 @@ Use [ready components](https://docs.appsmith.com/widget-reference/button) to bui
 #### ⏱ Quick Integrations
 Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).<br><br>
 
-#### 🤖 Code logic with JavaScript
+#### 🤖 Code Logic with JavaScript
 All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
 
 #### ☝️ One-click Deploy & Access Control
