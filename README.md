@@ -11,7 +11,7 @@
   <br>
   Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
   <br>
-  <br><p><img src="images/integrations.png" width="100%" style="max-width:420px;"></p>
+  <br><p><img src="images/integrations.png" width="360px"></p>
   <br>
 </p>
 
@@ -37,9 +37,9 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 ## Features
 
 <p>
-  <img src="images/animations/drag-drop.gif" width="33%">
-  <img src="images/animations/selections.gif" width="33%">
-  <img src="images/animations/move-around.gif" width="33%">
+  <img src="images/animations/drag-drop.gif" width="275px">
+  <img src="images/animations/selections.gif" width="275px">
+  <img src="images/animations/move-around.gif" width="275px">
 </p>
 
 #### ↗️ Drag & Drop UI
