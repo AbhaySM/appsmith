@@ -1,5 +1,5 @@
 
-<img src="images/git-banner.jpg" alt="Appsmith - The Frontend Tool for Backend Devs">
+<img src="images/git-banner-left.jpg" width="410px" alt="Appsmith - The Frontend Tool for Backend Devs"><img src="images/git-banner-right.jpg" width="410px" alt="Appsmith - The Frontend Tool for Backend Devs">
 
 <p>
   <b><a href="https://app.appsmith.com/signup">Start Building</a></b>
@@ -11,7 +11,7 @@
   <br>
   Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
   <br>
-  <br><p><img src="images/integrations.png" width="360px"></p>
+  <br><p><img src="images/integrations.png" width="320px"></p>
   <br>
 </p>
 
