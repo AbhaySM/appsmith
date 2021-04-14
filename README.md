@@ -37,9 +37,9 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 ## Features
 
 <p>
-  <img src="images/animations/drag-drop.gif" width="275px">
-  <img src="images/animations/selections.gif" width="275px">
-  <img src="images/animations/move-around.gif" width="275px">
+  <img src="images/animations/drag-drop.gif" width="32%">
+  <img src="images/animations/selections.gif" width="32%">
+  <img src="images/animations/move-around.gif" width="32%">
 </p>
 
 #### ↗️ Drag & Drop UI
@@ -79,6 +79,49 @@ We love our contributors! We're committed to fostering an open and welcoming env
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove / modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+<a href="http://arpitmohan.com"><img src="https://avatars2.githubusercontent.com/u/458946?v=4?s=100" width="100px;" alt="Arpit Mohan"/></a>
+<a href="https://github.com/Nikhil-Nandagopal"><img src="https://avatars2.githubusercontent.com/u/3897254?v=4?s=100" width="100px;" alt="Nikhil Nandagopal"/></a>
+<a href="https://github.com/areyabhishek"><img src="https://avatars1.githubusercontent.com/u/30255708?v=4?s=100" width="100px;" alt="Abhishek Nayak"/></a>
+<a href="https://github.com/trishaanand"><img src="https://avatars2.githubusercontent.com/u/8403079?v=4?s=100" width="100px;" alt="Trisha Anand"/></a>
+<a href="https://github.com/hetunandu"><img src="https://avatars2.githubusercontent.com/u/12022471?v=4?s=100" width="100px;" alt="Hetu Nandu"/></a>
+<a href="https://github.com/riodeuno"><img src="https://avatars1.githubusercontent.com/u/103687?v=4?s=100" width="100px;" alt="Abhinav Jha"/></a>
+<a href="https://github.com/satbir121"><img src="https://avatars3.githubusercontent.com/u/39981226?v=4?s=100" width="100px;" alt="Satbir"/></a>
+<a href="https://sharats.me"><img src="https://avatars3.githubusercontent.com/u/120119?v=4?s=100" width="100px;" alt="Shrikant Sharat Kandula"/></a>
+<a href="https://github.com/aakashDesign"><img src="https://avatars2.githubusercontent.com/u/65771350?v=4?s=100" width="100px;" alt="Aakash Shrivastava"/></a>
+
+<a href="https://github.com/Debsourabh"><img src="https://avatars2.githubusercontent.com/u/34486435?v=4?s=100" width="100px;" alt="Debsourabh Ghosh"/></a>
+<a href="https://github.com/NandanAnantharamu"><img src="https://avatars1.githubusercontent.com/u/67676905?v=4?s=100" width="100px;" alt="Nandan Anantharamu"/></a>
+<a href="https://github.com/prapullac"><img src="https://avatars3.githubusercontent.com/u/71753653?v=4?s=100" width="100px;" alt="Prapullac"/></a>
+<a href="https://github.com/Saket2"><img src="https://avatars0.githubusercontent.com/u/49346036?v=4?s=100" width="100px;" alt="Saket Agarwal"/></a>
+<a href="https://harishkotra.me"><img src="https://avatars1.githubusercontent.com/u/4999463?v=4?s=100" width="100px;" alt="Harish Kotra"/></a>
+<a href="https://github.com/visibleajay"><img src="https://avatars0.githubusercontent.com/u/13945951?v=4?s=100" width="100px;" alt="Ajay Kumar"/></a>
+<a href="https://github.com/akbansa"><img src="https://avatars0.githubusercontent.com/u/13042781?v=4?s=100" width="100px;" alt="Anshul Bansal"/></a>
+<a href="https://github.com/gogetter22"><img src="https://avatars3.githubusercontent.com/u/71608910?v=4?s=100" width="100px;" alt="Navia Garg"/></a>
+<a href="https://github.com/Xniveres"><img src="https://avatars0.githubusercontent.com/u/56609232?v=4?s=100" width="100px;" alt="Xniveres"/></a>
+
+<a href="https://github.com/daniel-shuy"><img src="https://avatars1.githubusercontent.com/u/17351764?v=4?s=100" width="100px;" alt="Daniel Shuy"/></a>
+<a href="http://prashantchaubey.com"><img src="https://avatars3.githubusercontent.com/u/14848874?v=4?s=100" width="100px;" alt="Prashant Chaubey"/></a>
+<a href="https://github.com/A-Scratchy"><img src="https://avatars0.githubusercontent.com/u/25309929?v=4?s=100" width="100px;" alt="Adam"/></a>
+<a href="https://github.com/sumanthyedoti"><img src="https://avatars3.githubusercontent.com/u/30371888?v=4?s=100" width="100px;" alt="Sumanth Yedoti"/></a>
+<a href="https://github.com/nidhi-nair"><img src="https://avatars2.githubusercontent.com/u/5298848?v=4?s=100" width="100px;" alt="Nidhi"/></a>
+<a href="https://github.com/jsartisan"><img src="https://avatars1.githubusercontent.com/u/6636360?v=4?s=100" width="100px;" alt="Pawan Kumar"/></a>
+<a href="https://github.com/sumitsum"><img src="https://avatars0.githubusercontent.com/u/1757421?v=4?s=100" width="100px;" alt="Sumit Kumar"/></a>
+<a href="https://github.com/rishabhsaxena"><img src="https://avatars0.githubusercontent.com/u/1944800?v=4?s=100" width="100px;" alt="Rishabh Saxena"/></a>
+<a href="https://github.com/ofpiyush"><img src="https://avatars0.githubusercontent.com/u/292174?v=4?s=100" width="100px;" alt="Piyush Mishra"/></a>
+
+<a href="https://github.com/akash-codemonk"><img src="https://avatars2.githubusercontent.com/u/67054171?v=4?s=100" width="100px;" alt="akash-codemonk"/></a>
+<a href="https://github.com/vicky-primathon"><img src="https://avatars2.githubusercontent.com/u/67091118?v=4?s=100" width="100px;" alt="vicky-primathon"/></a>
+<a href="https://github.com/devrk96"><img src="https://avatars0.githubusercontent.com/u/68607686?v=4?s=100" width="100px;" alt="devrk96"/></a>
+<a href="https://github.com/trdillon"><img src="https://avatars.githubusercontent.com/u/26350151?v=4?s=100" width="100px;" alt="Tim Dillon"/></a>
+<a href="https://github.com/zegerhoogeboom"><img src="https://avatars.githubusercontent.com/u/5371096?v=4?s=100" width="100px;" alt="Zeger Hoogeboom"/></a>
+<a href="https://github.com/Devedunkey"><img src="https://avatars.githubusercontent.com/u/29448764?v=4?s=100" width="100px;" alt="Young Yoo"/></a>
+<a href="http://dwayne.io"><img src="https://avatars.githubusercontent.com/u/347097?v=4?s=100" width="100px;" alt="wayne Forde"/></a>
+<a href="https://github.com/monarch0111"><img src="https://avatars.githubusercontent.com/u/2965013?v=4?s=100" width="100px;" alt="Abhishek"/></a>
+<a href="http://www.navdeepsingh.in/"><img src="https://avatars.githubusercontent.com/u/2968787?v=4?s=100" width="100px;" alt=""/></a>
+
+
+
 
 <table>
   <tr>
