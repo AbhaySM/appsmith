@@ -1,5 +1,5 @@
 
-<img src="images/git-banner-left.png" width="410px" alt="Appsmith - The Frontend Tool for Backend Devs"><img src="images/git-banner-right.png" width="410px" alt="Appsmith - The Frontend Tool for Backend Devs">
+<img src="images/git-banner-right.png" width="410px" alt="Appsmith - The Frontend Tool for Backend Devs"><img src="images/git-banner-left.png" width="410px" alt="Appsmith - The Frontend Tool for Backend Devs">
 
 <p>
   <b><a href="https://app.appsmith.com/signup">Start Building</a></b>
