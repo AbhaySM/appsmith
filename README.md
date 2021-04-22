@@ -28,12 +28,11 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 * One-click deploy to [Heroku](https://docs.appsmith.com/setup/heroku)
 
 ### Demos
-* ▶️ [See how to quickly build an app](http://bit.ly/appsmith-demo-github) (4:18)
 * 👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
 * 💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
 * 🌟 Made something cool? [Share it with the community](https://discord.gg/Tx395War)
 <br>
-<a href="http://bit.ly/appsmith-demo-github"><img src="images/build-tool.png" alt="Build an Internal Tool with Appsmith" width="410px"></a>
+<a href="http://bit.ly/appsmith-demo-github"><img src="images/build-tool.png" alt="Build an Internal Tool with Appsmith" width="410px" /></a>
 <br><br>
 
 ## Features
@@ -49,11 +48,13 @@ Use [ready components](https://docs.appsmith.com/widget-reference/button) to bui
 > *Includes text, forms, inputs, buttons, tables, images, charts, checkboxes, switches, radio buttons, datepickers, dropdowns, filepickers, containers, maps, modals, rich text editors, tabs & video*
 
 <br>
+
 #### ⏱ Quick Integrations
 Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).
 > *Currently works with PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server*
 
 <br>
+
 #### 🤖 Code Logic with JavaScript
 All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
 
