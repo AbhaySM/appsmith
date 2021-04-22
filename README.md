@@ -26,13 +26,12 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 * Deploy on a [Kubernetes](https://docs.appsmith.com/setup/kubernetes) cluster
 * Deploy to [AWS with an AMI](https://docs.appsmith.com/setup/aws-ami) on the marketplace
 * One-click deploy to [Heroku](https://docs.appsmith.com/setup/heroku)
+<a href="http://bit.ly/appsmith-demo-github"><img src="images/build-tool.png" alt="Build an Internal Tool with Appsmith" width="410px" /></a>
 
 ### Demos
 * 👩‍💻 [Customer Support Dashboard](https://bit.ly/cs-dashboard-appsmith)
 * 💼 [Job Application Tracker](https://bit.ly/3hbYtTi)
 * 🌟 Made something cool? [Share it with the community](https://discord.gg/Tx395War)
-<br>
-<a href="http://bit.ly/appsmith-demo-github"><img src="images/build-tool.png" alt="Build an Internal Tool with Appsmith" width="410px" /></a>
 <br><br>
 
 ## Features
@@ -46,13 +45,11 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 #### ↗️ Drag & Drop UI
 Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.
 > *Includes text, forms, inputs, buttons, tables, images, charts, checkboxes, switches, radio buttons, datepickers, dropdowns, filepickers, containers, maps, modals, rich text editors, tabs & video*
-
 <br>
 
 #### ⏱ Quick Integrations
 Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).
 > *Currently works with PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server*
-
 <br>
 
 #### 🤖 Code Logic with JavaScript
