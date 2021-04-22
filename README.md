@@ -26,6 +26,7 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 * Deploy on a [Kubernetes](https://docs.appsmith.com/setup/kubernetes) cluster
 * Deploy to [AWS with an AMI](https://docs.appsmith.com/setup/aws-ami) on the marketplace
 * One-click deploy to [Heroku](https://docs.appsmith.com/setup/heroku)
+
 <a href="http://bit.ly/appsmith-demo-github"><img src="images/build-tool.png" alt="Build an Internal Tool with Appsmith" width="410px" /></a>
 
 ### Demos
