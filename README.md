@@ -19,6 +19,8 @@
 
 ## Quick Start
 
+[![See how to quickly build an app with Appsmith](images/animations/drag-drop.gif)](http://bit.ly/appsmith-demo-github)
+
 The fastest way to start with Appsmith is the cloud-hosted version. When you're ready, you can also host it yourself.
 
 * Start building apps *2 minutes* with [Appsmith Cloud](https://bit.ly/appsmith-signup-github)
@@ -43,13 +45,15 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 </p>
 
 #### ↗️ Drag & Drop UI
-Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.<br><br>
+Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common elements like tables, charts, forms and more right into your app.
 > *Includes text, forms, inputs, buttons, tables, images, charts, checkboxes, switches, radio buttons, datepickers, dropdowns, filepickers, containers, maps, modals, rich text editors, tabs & video*
 
+<br><br>
 #### ⏱ Quick Integrations
-Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).<br><br>
+Appsmith automagically works using any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).
 > *Currently works with PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server*
 
+<br><br>
 #### 🤖 Code Logic with JavaScript
 All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
 
