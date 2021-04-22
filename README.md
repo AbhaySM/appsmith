@@ -19,7 +19,7 @@
 
 ## Quick Start
 
-[![See how to quickly build an app with Appsmith](images/animations/drag-drop.gif)](http://bit.ly/appsmith-demo-github)
+[![See how to quickly build an app with Appsmith](images/animations/video-preview.gif)](http://bit.ly/appsmith-demo-github)
 
 The fastest way to start with Appsmith is the cloud-hosted version. When you're ready, you can also host it yourself.
 
