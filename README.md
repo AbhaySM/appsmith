@@ -39,8 +39,8 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 
 <p>
   <img src="images/animations/drag-drop.gif" width="32%">
-  <img src="images/animations/selections.gif" width="32%">
-  <img src="images/animations/move-around.gif" width="32%">
+  <img src="images/animations/running-api.gif" width="32%">
+  <img src="images/animations/writing-js.gif" width="32%">
 </p>
 
 #### ↗️ Drag & Drop UI
