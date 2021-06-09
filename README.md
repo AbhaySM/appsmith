@@ -57,7 +57,7 @@ Appsmith automagically integrates with any DB, Rest API or GraphQL as a datasour
 <br><br>
 
 <p>
-  <img src="images/animations/writing-js.gif" width="100%">
+  <img src="images/animations/javascript.gif" width="100%">
 </p>
 
 All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
