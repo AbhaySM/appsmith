@@ -40,7 +40,7 @@ The fastest way to start with Appsmith is the cloud-hosted version. When you're 
 
 
 <p>
-  <img src="images/animations/widgets.gif" width="100%">
+  <img src="static/images/animations/widgets.gif" width="100%">
 </p>
 
 Use [ready components](https://docs.appsmith.com/widget-reference/button) to build workflows in record time. Drag common widgets like tables, charts, forms and more right into your app.
@@ -49,7 +49,7 @@ Use [ready components](https://docs.appsmith.com/widget-reference/button) to bui
 <br><br>
 
 <p>
-  <img src="images/animations/running-api.gif" width="100%">
+  <img src="static/images/animations/running-api.gif" width="100%">
 </p>
 
 Appsmith automagically integrates with any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. Here's a list of all our [pre-built integrations](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases).
@@ -58,7 +58,7 @@ Appsmith automagically integrates with any DB, Rest API or GraphQL as a datasour
 <br><br>
 
 <p>
-  <img src="images/animations/javascript.gif" width="100%">
+  <img src="static/images/animations/javascript.gif" width="100%">
 </p>
 
 All parts of your app can be referenced as JavaScript objects. Code interactions between elements, update datasources or manipulate SQL queries—[we'll parse JS anywhere](https://docs.appsmith.com/core-concepts/writing-code).<br><br>
